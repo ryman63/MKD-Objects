@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "PgSqlDataBase": "Server=localhost;Database=MKD;port=5432;username=postgres;password=Fanta250848"
+  }
+}
